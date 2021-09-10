@@ -12,6 +12,8 @@ namespace lb1_Ts_An
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Hi!");
+            Console.WriteLine("Hiii!");
+             
             Console.ReadLine();
         }
     }
