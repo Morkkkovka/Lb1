@@ -10,6 +10,9 @@ namespace lb1_Ts_An
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world!");
+            Console.WriteLine("Hi!");
+            Console.ReadLine();
         }
     }
 }
